@@ -8,6 +8,7 @@
 #4. Deployment on Google Firebase Hosting.
 #5. JS ES6 (2015) Concepts => Array & Object Destructuring, Import & Export, Spread Operators, Hooks.
 #6. Hooks are small functional pieces of code which can perform multiple operations.
+#7. We can have only one default export in one functional module or component, without default export means named export can be used or destructured in another functional module or component.
 
 🔥🥀 Important Notes 🥀🔥
 
@@ -22,7 +23,7 @@
 ✅#G. Build the Banner.
 ✅#H. Build the Navbar.
 ✅#I. Add the Trailer Pop-ups Functionality.
-#J.
+✅#J. Deploy App to Firebase.
 
 🔥🥀 Detailed Explaination of Important Notes 🥀🔥
 
@@ -45,7 +46,7 @@
 🌱#3. Install the sudo npm i -g firebase-tools inside the project using NPM (Node Package Manager).
 🌱#4. Configure or Setup your Firebase Hosting.
 
-✅#E. Get all the Movies.
+✅#E. Get all the Movies & ✅#F. Build the Posters Rows.
 
 🌱#1. Setup your Server/API Request Endpoints as Object in functional module as requests.js to lay our urls shorter and easier to use. Also, using the url parameters as &with_genre=23.
 🌱#2. Setup your Request Sender using Axios Package in axios.js.
@@ -56,10 +57,28 @@
 🌱#7. State is the short-term/temporary memory inside the App Component. useState Hook is a way of writing the variables in React.
 🌱#8. Store & Update the movies inside Row Component using useState Hook.
 🌱#9. Build the JSX of Row Component and Map all the movies.
-🌱#10. Create the Style for Row.css.
+🌱#10. Use the Block-Element-Modifier (BEM) Model to specify the className in React in order to style your Components. Use Double Under Score in BEM Model.
+🌱#11. Render all the movies.
+🌱#12. Apply the Conditional Styling for the Large Rows (Netflix) & Conditionally display the Thumbnail & Poster Image.
 
 
-✅#F. Build the Posters Rows.
+✅#G. Build the Banner.
 
-🌱#1. Create the Project & Setup for Web Application.
-🌱#2. No need to setup the Firebase SDK - Node Modules.
+🌱#1. Build the Layout/Outline for the Banner Component (BEM) Model.
+🌱#2. Write the logic for random movie using the Math Class Method.
+🌱#3. Store & Update the Random Movie inside the movie state variable using useState Hook.
+🌱#4. Embedd the Banner Image using React Inline Object Styling. Using Ternary Operator for movie existence.
+🌱#5. OR Operator || for movie title, name or original_name.
+🌱#6. Text Truncated Function in Movie Description.
+🌱#7. Add the linear-gradient Style in banner--fadeBottom.
+
+✅#H. Build the Navbar.
+
+🌱#1. Build the Layout/Outline for the Banner Component (BEM) Model.
+🌱#2. Add the Functionality of the Scrollbar Event Listener & add the specific style on the Event using useEffect & useState Hooks.
+🌱#3. Add the Styles for NavBar.
+
+✅#I. Add the Trailer Pop-ups Functionality.
+🌱#1. Install the React Packages - React-Youtube and movie-trailer.
+
+✅#J. Deploy App to Firebase.

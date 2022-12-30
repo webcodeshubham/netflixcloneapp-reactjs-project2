@@ -1,0 +1,41 @@
+/* Default Styling */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* Navbar Stylings */
+
+.nav {
+  padding: 0vw 5vw;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  /* position: sticky; */
+  z-index: 1;
+  top: 0;
+  width: 90%;
+  height: 4.5rem;
+  background-image: linear-gradient(0deg, transparent, rgba(37, 37, 37, 0.61), #111);
+
+  /* Animations */
+  transition-timing-function: ease-in;
+  transition: all 0.5s;
+
+}
+
+.nav__black {
+    background-color: black;
+}
+
+.nav__brandLogo {
+  width: 5vw;
+  object-fit: contain;
+}
+
+.nav__userAvatar {
+  width: 2.5vw;
+  object-fit: contain;
+}
