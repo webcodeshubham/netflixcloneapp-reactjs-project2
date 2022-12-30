@@ -1,0 +1,65 @@
+🥀 Netflix Clone - React JS 🥀
+
+🌿🥀🌳 Points to Remember 🌳🥀🌿
+
+#1. This project will fetch and render all the movies from the third party Fake API - TMDB Services.
+#2. Added Trailer Pop-up Functionality.
+#3. Responsive Design.
+#4. Deployment on Google Firebase Hosting.
+#5. JS ES6 (2015) Concepts => Array & Object Destructuring, Import & Export, Spread Operators, Hooks.
+#6. Hooks are small functional pieces of code which can perform multiple operations.
+
+🔥🥀 Important Notes 🥀🔥
+
+🌿🍃🌳 Contents - Connect the Dots 🌳🍃🌿
+
+✅#A. Explore all the features of the Project.
+✅#B. Get the TMDB API Key.
+✅#C. Create the React Application.
+✅#D. Setup your Deployment Platform - Firebase Hosting.
+✅#E. Get all the Movies.
+✅#F. Build the Posters Rows.
+✅#G. Build the Banner.
+✅#H. Build the Navbar.
+✅#I. Add the Trailer Pop-ups Functionality.
+#J.
+
+🔥🥀 Detailed Explaination of Important Notes 🥀🔥
+
+✅#B. Get the TMDB API Key.
+
+🌱#1. Register for TMDB.
+🌱#2. Apply for Fake API Key.
+🌱#3. Copy the Fake API Key & Request Endpoint URL for reference & fetching movies of different genres.
+🌱#4. Test your Server/API Endpoints with API Key on Postman API Testing Platform.
+
+✅#C. Create the React Application.
+
+🌱#1. Create the React App using create-react-app Command using NPX(Node Package Execution Tool) & NPM Start.
+🌱#2. Files & Folders - React App Clean up.
+
+✅#D. Setup your Deployment Platform - Firebase Hosting.
+
+🌱#1. Create the Project & Setup for Web Application.
+🌱#2. No need to setup the Firebase SDK - Node Modules.
+🌱#3. Install the sudo npm i -g firebase-tools inside the project using NPM (Node Package Manager).
+🌱#4. Configure or Setup your Firebase Hosting.
+
+✅#E. Get all the Movies.
+
+🌱#1. Setup your Server/API Request Endpoints as Object in functional module as requests.js to lay our urls shorter and easier to use. Also, using the url parameters as &with_genre=23.
+🌱#2. Setup your Request Sender using Axios Package in axios.js.
+🌱#3. Build the Complete App Outline/Layout inside the Home Container and Call the Home Container inside the App Component.
+🌱#4. Build the Outline/Layout of Row Component.
+🌱#5. Props are Properties/Args allows us to pass different values to the same component using args/params. Every Component holds a prop object. 
+🌱#6. Fetch the API inside Row Component using Async-Await Function, useEffect Hook & Axios Package - Request Sender. Also, in order to visualize the console.table(data).
+🌱#7. State is the short-term/temporary memory inside the App Component. useState Hook is a way of writing the variables in React.
+🌱#8. Store & Update the movies inside Row Component using useState Hook.
+🌱#9. Build the JSX of Row Component and Map all the movies.
+🌱#10. Create the Style for Row.css.
+
+
+✅#F. Build the Posters Rows.
+
+🌱#1. Create the Project & Setup for Web Application.
+🌱#2. No need to setup the Firebase SDK - Node Modules.
