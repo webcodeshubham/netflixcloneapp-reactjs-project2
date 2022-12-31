@@ -4,7 +4,7 @@ This Project features the fundamentals of React JS Library which includes Node, 
 
 [LIVE HOSTED WEBSITE FIREBASE]()
 
-[LIVE HOSTED WEBSITE REPLIT]()
+[LIVE HOSTED WEBSITE REPLIT](https://netflixcloneapp-reactjs-project2.shubhamshriva15.repl.co/)
 
 # Screenshot
 
@@ -27,4 +27,3 @@ This Project features the fundamentals of React JS Library which includes Node, 
 - Termiante the Server => Ctrl+C
 
 React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta and a community of individual developers and companies.
-

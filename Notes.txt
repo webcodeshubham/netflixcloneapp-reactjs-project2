@@ -88,4 +88,15 @@
 ✅#J. Deploy App to Firebase.
 
 🌱#1. Firebase Login:- Login to Firebase Hosting Server.
-🌱#2. 
+🌱#2. firebase init.
+🌱#3. Select the Hosting Server & Hit Spacebar to Select the Option and then hit Enter.
+🌱#4. Select the Existing Project.
+🌱#5. Select the Project Name for Deployment.
+🌱#6. Use public directory for Build.
+🌱#7. Configure SAP as Yes - 'y'.
+🌱#8. Automatic Build and Deploys with GitHub.
+🌱#9. Authenticate with GitHub Account and Firebase Account.
+🌱#10. Mention your Github Repository Name.
+🌱#11. npm run build for specific files and directories for Deployment.
+🌱#12. Name of GitHub Branch as main --> Initilization Completed.
+🌱#13. Run the <firebase deploy>
