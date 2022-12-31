@@ -69,14 +69,15 @@
 🌱#3. Store & Update the Random Movie inside the movie state variable using useState Hook.
 🌱#4. Embedd the Banner Image using React Inline Object Styling. Using Ternary Operator for movie existence.
 🌱#5. OR Operator || for movie title, name or original_name.
-🌱#6. Understad the Text Truncated Function in Movie Description.
-🌱#7. Add the linear-gradient Style in banner--fadeBottom.
+🌱#6. Understand the Text Truncated Function in Movie Description.
+🌱#7. Add the linear-gradient Style in banner--fadeBottom (BEM).
 
 ✅#H. Build the Navbar.
 
 🌱#1. Build the Layout/Outline for the Banner Component (BEM) Model.
-🌱#2. Add the Functionality of the Scrollbar Event Listener & add the specific style on the Event using useEffect & useState Hooks.
-🌱#3. Add the Styles for NavBar.
+🌱#2. Add the Styles for NavBar.
+🌱#3. Add the Functionality of the Scrollbar Event Listener & add the specific style on the Event using useEffect & useState Hooks.
+🌱#4. 
 
 ✅#I. Add the Trailer Pop-ups Functionality.
 🌱#1. Install the React Packages - React-Youtube and movie-trailer.

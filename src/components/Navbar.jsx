@@ -2,17 +2,22 @@ import React, { useState, useEffect } from "react";
 import "./Navbar.css";
 
 const Navbar = () => {
+  // it stores a boolean in state, does the event happenend or not?
   const [show, handleShow] = useState(false);
 
+  // this must be called whenever the scrollar event is fired
   useEffect(() => {
+    // when the event occurs on main window, run the callback function.
     window.addEventListener("scroll", () => {
-      // When you scroll 100px down in the y-axis, handleShow() will be executed.
+      // When you scroll 100px down in the y-axis, handleShow() will be executed, set the true value to show state variable.
       if (window.scrollY > 100) {
-        handleShow(true)
+        handleShow(true);
+        // otherwise, let it remain be false.
       } else handleShow(false);
     });
+    // At last, remove the EventListener Scroll from the Function in return as function.
     return () => {
-      window.removeEventListener("scroll", () => {})
+      window.removeEventListener("scroll", () => {});
     };
   }, []);
 

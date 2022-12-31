@@ -61,6 +61,10 @@ if width < max-width; let the browser use width. */
   color: #000;
 }
 
+/* Netflix Original CSS Properties for Bannner Description */
+
+/* Linear-Gradient means changes from Top-Bottom or Stack by Stack */
+
 .banner--fadeBottom {
   height: 7.4rem;
   background-image: linear-gradient(
