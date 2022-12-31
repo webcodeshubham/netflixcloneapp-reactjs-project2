@@ -8,7 +8,7 @@ This Project features the fundamentals of React JS Library which includes Node, 
 
 # Screenshot
 
-![Screenshot 2022-12-26 at 4 49 03 PM](https://user-images.githubusercontent.com/115470266/209543201-866a26f9-0cce-4185-a60c-e0f368b2bd9a.png)
+<img width="1437" alt="Screenshot 2022-12-31 at 1 57 13 PM" src="https://user-images.githubusercontent.com/115470266/210130488-0ffd27f5-d488-4157-b306-f0d8d95a6237.png">
 
 # Technologies Used
 
@@ -27,3 +27,4 @@ This Project features the fundamentals of React JS Library which includes Node, 
 - Termiante the Server => Ctrl+C
 
 React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta and a community of individual developers and companies.
+
