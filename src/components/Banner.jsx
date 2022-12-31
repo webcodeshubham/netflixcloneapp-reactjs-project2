@@ -30,6 +30,7 @@ const Banner = ({ fetchUrl }) => {
   // Normal Function => Truncates the string and after n characters, append ... to the end of the string. this Function takes 2 parameters - string and terminating conditional parameters. This returns and executes if the string present & is greater than n and delete the remaining string characters after n characters, and append ... to the end of the string or if less than n characters, return the complete string.
 
   function truncate(str, n) {
+    // substr is a method here,which takes inital and last index of the string.
     return str?.length > n ? str.substr(0, n - 1) + "..." : str;
   }
 
