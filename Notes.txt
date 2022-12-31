@@ -77,9 +77,15 @@
 🌱#1. Build the Layout/Outline for the Banner Component (BEM) Model.
 🌱#2. Add the Styles for NavBar.
 🌱#3. Add the Functionality of the Scrollbar Event Listener & add the specific style on the Event using useEffect & useState Hooks.
-🌱#4. 
+🌱#4. Add the Animation in the Scrollbar Navigation.
 
 ✅#I. Add the Trailer Pop-ups Functionality.
+
 🌱#1. Install the React Packages - React-Youtube and movie-trailer.
+🌱#2. Add the Trailer Pop-up Functionality underneath a Row__Posters Container in Row Component using both node packages.
+🌱#3. Use the Promises (then and catch) URLSearchParams and get the value of url paramter i.e. "v".
 
 ✅#J. Deploy App to Firebase.
+
+🌱#1. Firebase Login:- Login to Firebase Hosting Server.
+🌱#2. 
