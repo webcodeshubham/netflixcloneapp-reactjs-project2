@@ -97,6 +97,6 @@
 🌱#8. Automatic Build and Deploys with GitHub.
 🌱#9. Authenticate with GitHub Account and Firebase Account.
 🌱#10. Mention your Github Repository Name.
-🌱#11. npm run build for specific files and directories for Deployment.
+🌱#11. <npm ci && npm run build> for specific files and directories for Deployment.
 🌱#12. Name of GitHub Branch as main --> Initilization Completed.
 🌱#13. Run the <firebase deploy>
