@@ -16,7 +16,7 @@ This Project features the fundamentals of React JS Library which includes Node, 
 - HTML - 5
 - CSS - 3
 - JS ES6
-- GitHub Version Control System
+- Gi & GitHub Version Control System
 - Firebase Deployment
 - Replit Deployment
 
