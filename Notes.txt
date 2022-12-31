@@ -69,7 +69,7 @@
 🌱#3. Store & Update the Random Movie inside the movie state variable using useState Hook.
 🌱#4. Embedd the Banner Image using React Inline Object Styling. Using Ternary Operator for movie existence.
 🌱#5. OR Operator || for movie title, name or original_name.
-🌱#6. Text Truncated Function in Movie Description.
+🌱#6. Understad the Text Truncated Function in Movie Description.
 🌱#7. Add the linear-gradient Style in banner--fadeBottom.
 
 ✅#H. Build the Navbar.

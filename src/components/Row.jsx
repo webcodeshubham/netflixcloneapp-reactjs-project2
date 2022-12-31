@@ -72,7 +72,7 @@ const Row = ({ title, fetchUrl, isLargeRow }) => {
                 // Ternary -> must include row__poster class & execute the logic in {if true, print new class or keep as an empty string}
                 className={`row__poster ${isLargeRow && "row__posterLarge"}`}
                 // className={`row__poster ${isLargeRow ? "row__largeRow" : ""}`}
-                // Array must be optimised when dealing with big lists of data, must be provided with unique keys inside an array.
+                // Array must be optimised when dealing with big lists of data, must be provided with unique keys inside an array. React get to know what specific item needs to be inserted/rendered.
                 key={movie.id}
                 // On-click function
                 onClick={() => handleClick(movie)}
