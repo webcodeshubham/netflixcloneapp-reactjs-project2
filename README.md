@@ -24,6 +24,6 @@ This Project features the fundamentals of React JS Library which includes Node, 
 
 - Download the Project Repository Zip File.
 - Run the React Server => npm start
-- Termiante the Server => Ctrl+C
+- Terminate the Server => Ctrl+C
 
 React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta and a community of individual developers and companies.
